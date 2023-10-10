@@ -1,10 +1,15 @@
 h1 {
+font-family: serif;
+font-style: italic;
 font-size: 120px;
+
 }
 
-td, th {
-	border: 1px solid;
+td, th, tr {
+	border: 5px solid;
   font-size: 90px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 100px;
   }
   
 img {
@@ -12,3 +17,5 @@ img {
   height: auto;
 }
 
+
+  
