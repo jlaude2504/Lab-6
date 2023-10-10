@@ -6,7 +6,7 @@ html{
 h1 {
   font-family: serif;
   font-style: italic;
-  font-size: 90px;
+  font-size: 45px;
 
 }
 
@@ -16,13 +16,13 @@ td, th {
   }
  
 .Planets{
-  font-size: 45px;
+  font-size: 25px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
 }
 
 .Data {
-  font-size: 45px;
+  font-size: 25px;
   font-family: 'Courier New', Courier, monospace;
  
 }
