@@ -10,13 +10,23 @@ h1 {
 
 }
 
-td, th, tr {
+td, th {
 	border: 5px solid;
+
+  }
+ 
+.Planets{
+  font-size: 90px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 100px;
+}
+
+.Data {
   font-size: 90px;
   font-family: 'Courier New', Courier, monospace;
   font-weight: 100px;
-  }
-  
+}
+
 img {
   width: 950px;
   height: auto;
