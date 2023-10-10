@@ -1,9 +1,14 @@
+h1 {
+font-size: 120px;
+}
+
 td, th {
 	border: 1px solid;
+  font-size: 90px;
   }
   
 img {
-  width: 150px;
+  width: 1000px;
   height: auto;
 }
 
