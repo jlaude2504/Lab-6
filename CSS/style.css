@@ -28,8 +28,10 @@ td, th {
 }
 
 img {
-  width: 950px;
+  width: 940px;
   height: auto;
+  border: 20px dotted;
+  border-color: darkgray;
 }
 
 
